@@ -1,7 +1,6 @@
 
-# 目录
 
-```http
+```
 海康威视Hikvision综合漏洞利用工具
 大华Dahua综合漏洞利用工具
 Nacos综合漏洞利用工具
@@ -25,26 +24,26 @@ DecryptTools综合加解密后渗透工具
 互联网厂商API利用工具
 OA综合漏洞利用工具
 信息泄露利用工具
-	Swagger API信息泄露利用工具
-	Heapdump敏感信息提取工具
-	.git泄漏利用工具
-	SVN源代码利用工具
-	.DS_Store文件泄露利用工具
-	.cvs源代码泄露利用工具
-	Webpack:安全检测的扫描工具
+ Swagger API信息泄露利用工具
+ Heapdump敏感信息提取工具
+ .git泄漏利用工具
+ SVN源代码利用工具
+ .DS_Store文件泄露利用工具
+ .cvs源代码泄露利用工具
+ Webpack:安全检测的扫描工具
 ```
 
 # 海康威视 Hikvision 综合漏洞利用工具
 
 ## 项目地址
 
-```http
+```
 https://github.com/MInggongK/Hikvision-
 ```
 
 ## 项目介绍
 
-```http
+```
 海康威视综合漏洞利用工具 收录漏洞如下：
 Hikvision 摄像头未授权访问漏洞
 Hikvision 远程代码执行漏洞
@@ -61,19 +60,19 @@ Hikvision综合安防管理平台orgManage任意文件读取漏洞
 Hikvision综合安防管理平台files任意文件读取漏洞
 ```
 
-​![image](assets/image-20240627092425-33egjal.png)​
+![image](assets/image-20240627092425-33egjal.png)
 
 # Dahua 综合漏洞利用工具
 
 ## 项目地址
 
-```http
+```
 https://github.com/MInggongK/dahuaExploitGUI
 ```
 
 ## 项目介绍
 
-```http
+```
 Dhua综合漏洞利用工具 收录漏洞如下：
 
 大华DSS数字监控系统attachment_clearTempFile.action注入漏洞
@@ -96,49 +95,49 @@ Dhua综合漏洞利用工具 收录漏洞如下：
 大华智慧园区综合管理平台ipms命令执行漏洞
 ```
 
-​![image](assets/image-20240627092641-z11lhhg.png)​
+![image](assets/image-20240627092641-z11lhhg.png)
 
-​![image](assets/image-20240627092704-luie0j9.png)​
+![image](assets/image-20240627092704-luie0j9.png)
 
 # Nacos 综合漏洞利用工具
 
 ## 项目地址
 
-```http
+```
 https://github.com/charonlight/NacosExploitGUI
 ```
 
 ## 项目介绍
 
-```http
+```
 集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用
 ```
 
-​![image](assets/image-20240627093029-rgwih84.png)​
+![image](assets/image-20240627093029-rgwih84.png)
 
-​![image](assets/image-20240627093039-hy5mms2.png)​
+![image](assets/image-20240627093039-hy5mms2.png)
 
-​![image](assets/image-20240627093052-vlaj022.png)​
+![image](assets/image-20240627093052-vlaj022.png)
 
-​![image](assets/image-20240627093100-nm5ryus.png)​
+![image](assets/image-20240627093100-nm5ryus.png)
 
-​![image](assets/image-20240627093105-rs0mp7q.png)​
+![image](assets/image-20240627093105-rs0mp7q.png)
 
 # Vcenter 综合漏洞利用工具
 
 ## 项目地址
 
-```http
+```
 https://github.com/Schira4396/VcenterKiller
 ```
 
-```http
+```
 https://github.com/W01fh4cker/VcenterKit
 ```
 
 ## 项目介绍
 
-```http
+```
 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接
 
 go build -o main.exe
@@ -155,7 +154,7 @@ go build -o main.exe
 ./main.exe -u https://xx.xx.com -m 31656 //If CVE-2022-22972不能用就换CVE-2022-31656
 ```
 
-```http
+```
 Vcenter综合渗透利用工具包 | Vcenter Comprehensive Penetration and Exploitation Toolkit包含
 
 信息收集模块
@@ -168,27 +167,27 @@ CVE-2022-22972模块
 渗透测试记事本(打vcenter的时候常用的命令、常看的文章)
 ```
 
-​![image](assets/image-20240627094033-t8q9zy8.png)​
+![image](assets/image-20240627094033-t8q9zy8.png)
 
-​![image](assets/image-20240627094041-c9nfwhn.png)​
+![image](assets/image-20240627094041-c9nfwhn.png)
 
-​![image](assets/image-20240627094050-the5fq1.png)​
+![image](assets/image-20240627094050-the5fq1.png)
 
 # Fastjson 漏洞批量检测工具
 
 ## 项目地址
 
-```http
+```
 https://github.com/c0ny1/FastjsonExploit
 ```
 
-```http
+```
 https://github.com/smallfox233/JsonExp
 ```
 
 ## 项目介绍
 
-```http
+```
 FastjsonExploit是一个Fastjson漏洞快速漏洞利用框架，主要功能如下：
 
 一键生成利用payload，并启动所有利用环境。
@@ -214,22 +213,22 @@ Exp03: java -jar FastjsonExploit-[version].jar TemplatesImpl1 "cmd:calc"
 Exp04: java -jar FastjsonExploit-[version].jar TemplatesImpl1 "code:custom_code.java"
 
 Available payload types:
-    Payload                PayloadType VulVersion      Dependencies                                    
-    -------                ----------- ----------      ------------                                    
+    Payload                PayloadType VulVersion      Dependencies                                  
+    -------                ----------- ----------      ------------                                  
     BasicDataSource1       local       1.2.2.1-1.2.2.4 tomcat-dbcp:7.x, tomcat-dbcp:9.x, commons-dbcp:1.4
     BasicDataSource2       local       1.2.2.1-1.2.2.4 tomcat-dbcp:7.x, tomcat-dbcp:9.x, commons-dbcp:1.4
-    JdbcRowSetImpl1        jndi        1.2.2.1-1.2.2.4                                                 
-    JdbcRowSetImpl2        jndi        1.2.2.1-1.2.4.1 Fastjson 1.2.41 bypass                          
-    JdbcRowSetImpl3        jndi        1.2.2.1-1.2.4.3 Fastjson 1.2.43 bypass                          
-    JdbcRowSetImpl4        jndi        1.2.2.1-1.2.4.2 Fastjson 1.2.42 bypass                          
-    JdbcRowSetImpl5        jndi        1.2.2.1-1.2.4.7 Fastjson 1.2.47 bypass                          
-    JndiDataSourceFactory1 jndi        1.2.2.1-1.2.2.4 ibatis-core:3.0                                 
-    SimpleJndiBeanFactory1 jndi        1.2.2.2-1.2.2.4 spring-context:4.3.7.RELEASE                    
+    JdbcRowSetImpl1        jndi        1.2.2.1-1.2.2.4                                               
+    JdbcRowSetImpl2        jndi        1.2.2.1-1.2.4.1 Fastjson 1.2.41 bypass                        
+    JdbcRowSetImpl3        jndi        1.2.2.1-1.2.4.3 Fastjson 1.2.43 bypass                        
+    JdbcRowSetImpl4        jndi        1.2.2.1-1.2.4.2 Fastjson 1.2.42 bypass                        
+    JdbcRowSetImpl5        jndi        1.2.2.1-1.2.4.7 Fastjson 1.2.47 bypass                        
+    JndiDataSourceFactory1 jndi        1.2.2.1-1.2.2.4 ibatis-core:3.0                               
+    SimpleJndiBeanFactory1 jndi        1.2.2.2-1.2.2.4 spring-context:4.3.7.RELEASE                  
     TemplatesImpl1         local       1.2.2.1-1.2.2.4 xalan:2.7.2(need Feature.SupportNonPublicField)   
     TemplatesImpl2         local       1.2.2.1-1.2.2.4 xalan:2.7.2(need Feature.SupportNonPublicField)  
 ```
 
-```http
+```
 1. 根据现有payload，检测目标是否存在fastjson或jackson漏洞（工具仅用于检测漏洞、定位payload）
 2. 若存在漏洞，可根据对应payload进行后渗透利用
 3. 若出现新的漏洞时，可将最新的payload新增至txt中（需修改格式）
@@ -269,13 +268,13 @@ optional arguments:
 
 ## 项目地址
 
-```http
+```
 https://github.com/TheBeastofwar/JenkinsExploit-GUI
 ```
 
 ## 项目介绍
 
-```http
+```
 支持检测:
 CVE-2015-8103/CVE-2016-0788 Jenkins 反序列化远程代码执行 https://github.com/Medicean/VulApps/tree/master/j/jenkins/1
 CVE-2016-0792 Jenkins XStream反序列化远程代码执行 https://github.com/jpiechowka/jenkins-cve-2016-0792
@@ -288,19 +287,19 @@ CVE-2019-1003005/CVE-2019-1003029 远程代码执行(Script Security Plugin沙�
 CVE-2024-23897 Jenkins CLI 接口任意文件读取漏洞 https://github.com/vulhub/vulhub/blob/master/jenkins/CVE-2024-23897
 ```
 
-​![image](assets/image-20240627095322-zf9bpzu.png)​
+![image](assets/image-20240627095322-zf9bpzu.png)
 
 # Struts2 全版本漏洞检测工具
 
 ## 项目地址
 
-```http
+```
 https://github.com/abc123info/Struts2VulsScanTools
 ```
 
 ## 项目介绍
 
-```http
+```
 1、点击“检测漏洞”，会自动检测该URL是否存在S2-001、S2-005、S2-009、S2-013、S2-016、S2-019、S2-020/021、S2-032、S2-037、DevMode、S2-045/046、S2-052、S2-048、S2-053、S2-057、S2-061、S2相关log4j2十余种漏洞。
 
 2、“批量验证”，（为防止批量geshell，此功能已经删除，并不再开发）。
@@ -318,23 +317,23 @@ https://github.com/abc123info/Struts2VulsScanTools
 8、每次操作都启用一个线程，防止界面卡死。
 ```
 
-​![image](assets/image-20240627095433-z1d6prl.png)​
+![image](assets/image-20240627095433-z1d6prl.png)
 
 # Thinkphp 综合漏洞利用工具
 
 ## 项目地址
 
-```http
+```
 https://github.com/Lotus6/ThinkphpGUI
 ```
 
-```http
+```
 https://github.com/bewhale/thinkphp_gui_tools
 ```
 
 ## 项目介绍
 
-```http
+```
 Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。
 支持版本：（检查，命令执行，getshell）
 ThinkPHP 5.0 RCE
@@ -350,9 +349,9 @@ ThinkPHP 3.x 日志包含RCE
 Thinkphp6.x日志泄漏
 ```
 
-​![image](assets/image-20240627101405-x3af9e7.png)​
+![image](assets/image-20240627101405-x3af9e7.png)
 
-```http
+```
 ThinkPHP漏洞综合利用工具, 图形化界面, 命令执行, 一键getshell, 批量检测, 日志遍历, session包含,宝塔绕过
 支持大部分ThinkPHP漏洞检测,整合20多个payload
 支持部分漏洞执行命令
@@ -368,17 +367,17 @@ ThinkPHP漏洞综合利用工具, 图形化界面, 命令执行, 一键getshell,
 
 ## 项目地址
 
-```http
+```
 https://github.com/charonlight/SpringExploitGUI
 ```
 
-```http
+```
 https://github.com/0x727/SpringBootExploit
 ```
 
 ## 项目介绍
 
-```http
+```
 工具目前支持
 Spring Cloud Gateway RCE(CVE-2022-22947)
 Spring Cloud Function SpEL RCE (CVE-2022-22963)
@@ -387,9 +386,9 @@ Spring Data Commons RCE (CVE-2018-1273)的检测以及利用
 实现heapdump解密功能，并且支持模糊查询
 ```
 
-​![image](assets/image-20240627104833-9sown7s.png)​
+![image](assets/image-20240627104833-9sown7s.png)
 
-```http
+```
 SpringBootExploit
 一款针对SpringBootEnv页面进行快速漏洞利用
 SnakeYAMLRCE
@@ -407,17 +406,17 @@ SpringCloudGatewayRCE
 
 ## 项目地址
 
-```http
+```
 https://github.com/SummerSec/ShiroAttack2
 ```
 
-```http
+```
 https://github.com/sma11new/Pyke-Shiro
 ```
 
 ## 项目介绍
 
-```http
+```
 ShiroAttack2shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马）修复原版中NoCC的问题 https://github.com/j1anFen/shiro_attack
 javafx
 处理没有第三方依赖的情况
@@ -436,7 +435,7 @@ javafx
 
 ![image](assets/image-20240627105705-su49pl9.png)
 
-```http
+```
 Pyke-Shiro：复杂请求下的Shiro反序列化利用工具
 复杂请求可以是GET或POST，所有请求信息会被携带，可指定https，同时可选择是否保留原始数据包中的Cookie内容
 假设前台输入的cookieFlag是rememberMe
@@ -450,59 +449,59 @@ Pyke-Shiro：复杂请求下的Shiro反序列化利用工具
 	二、请求包中没cookie，不存在需要保留的内容，直接返回cookie payload
 ```
 
-​![image](assets/image-20240627105833-30qtagk.png)​
+![image](assets/image-20240627105833-30qtagk.png)
 
 # 若依 RuoYi 综合漏洞利用工具
 
 ## 项目地址
 
-```http
+```
 Ruoyi-All-1.0-SNAPSHOT这个工具是一个大佬写的没放github上，需要的可以去原作者公众号：小黑说安全，获取
 https://mp.weixin.qq.com/s/HU1OqZ7YFGjfc4HE3M8tPA
 ```
 
-```http
+```
 https://github.com/charonlight/RuoYiExploitGUI
 ```
 
 ## 项目介绍
 
-​![image](assets/image-20240627111232-o0yu9hz.png)​
+![image](assets/image-20240627111232-o0yu9hz.png)
 
-```http
+```
 RuoYiExploitGUI_v1.0
 若依最新定时任务SQL注入可导致RCE漏洞的一键利用工具, 扫描和漏洞利用结束会自行删除所创建的定时任务。
 ```
 
-​![image](assets/image-20240627110852-l8sj81i.png)​
+![image](assets/image-20240627110852-l8sj81i.png)
 
 # Xxl-job漏洞利用工具
 
 ## 项目地址
 
-```http
+```
 https://github.com/charonlight/xxl-jobExploitGUI
 ```
 
 ## 项目介绍
 
-```http
+```
 工具实现了XXL-JOB默认accessToken权限绕过漏洞的单个检测、批量检测、一键反弹shell功能，后续会持续更新优化，添加POC检测等。
 ```
 
-​![image](assets/image-20240627164850-vfxoylp.png)​
+![image](assets/image-20240627164850-vfxoylp.png)
 
 # Jboss 综合漏洞利用工具
 
 ## 项目地址
 
-```http
+```
 jbosss综合利用工具by:小黑
 同样与上面Ruoyi-All-1.0-SNAPSHOT   RuoYi综合漏洞利用工具出自同一个作者
 https://mp.weixin.qq.com/s/O0sMwNHRZKn4G4uJC55YlQ
 ```
 
-```http
+```
 https://github.com/fupinglee/JavaTools/tree/master/JBoss
 ```
 
@@ -510,7 +509,7 @@ https://github.com/fupinglee/JavaTools/tree/master/JBoss
 
 ![image](assets/image-20240627112005-llx5b02.png)
 
-```http
+```
 JBoss相关漏洞的验证工具，包括有CVE-2006-5750,CVE-2007-1036,CVE-2010-0738,CVE-2010-1871,CVE-2013-4810,CVE-2015-7501,CVE-2017-7504,CVE-2017-12149等漏洞。
 
 CVE-2010-1871,CVE-2013-4810,CVE-2015-7501,CVE-2017-7504,CVE-2017-12149可以执行命令。
@@ -522,14 +521,14 @@ CVE-2010-1871,CVE-2013-4810,CVE-2015-7501,CVE-2017-7504,CVE-2017-12149可以执�
 
 ## 项目地址
 
-```http
+```
 
 https://github.com/KimJun1010/WeblogicTool
 ```
 
 ## 项目介绍
 
-```http
+```
 WeblogicTool，GUI漏洞利用工具，支持漏洞检测、命令执行、内存马注入、密码解密等
 CVE-2023-21931（JNDI）
 CVE-2023-21839（JNDI）
@@ -558,17 +557,17 @@ CVE-2015-4852
 
 ## 项目地址
 
-```http
+```
 https://github.com/tpt11fb/AttackTomcat
 ```
 
-```http
+```
 https://github.com/errors11/TomcatVuln
 ```
 
 ## 项目介绍
 
-```http
+```
 AttackTomcat
 检测漏洞清单
 CVE-2017-12615 PUT文件上传漏洞 tomcat-pass-getshell 弱认证部署war包 弱口令爆破 CVE-2020-1938 Tomcat 文件读取/包含
@@ -584,17 +583,17 @@ CVE-2017-12615 PUT文件上传漏洞 tomcat-pass-getshell 弱认证部署war包 
 
 ## 项目地址
 
-```http
+```
 https://github.com/yecp181/Frchannel
 ```
 
-```http
+```
 https://github.com/BambiZombie/FrchannelPlus
 ```
 
 ## 项目介绍
 
-```http
+```
 1. 本工具仅用于本地模拟环境测试, 适用于FineBI
 
 2. 漏洞路径: /webroot/decision/remote/design/channel
@@ -604,12 +603,11 @@ https://github.com/BambiZombie/FrchannelPlus
 4. 利用DNSLOG功能时在输入命令处输入例如：blo6bz.dnslog.cn
 ```
 
+<br />![image](assets/image-20240627135442-l71fy4u.png)
 
-![image](assets/image-20240627135442-l71fy4u.png)​
+![image](assets/image-20240627135620-r0s0fge.png)
 
-​![image](assets/image-20240627135620-r0s0fge.png)​
-
-```http
+```
 
 帆软bi反序列化漏洞利用工具PLUS，将原版的冰蝎内存马换成了哥斯拉，增加了suo5内存马
 ```
@@ -620,13 +618,13 @@ https://github.com/BambiZombie/FrchannelPlus
 
 ## 项目地址
 
-```http
+```
 https://github.com/dark-kingA/cloudTools
 ```
 
 ## 项目介绍
 
-```http
+```
 云资产管理工具 目前工具定位是云安全相关工具，目前是两个模块 云存储工具、云服务工具， 
 云存储工具主要是针对oss存储、查看、删除、上传、下载、预览等等 
 云服务工具主要是针对rds、服务器的管理，查看、执行命令、接管等等
@@ -638,19 +636,19 @@ ucloud：接管控制台、主机查询、子用户列表查看、主用户查�
 AWS: 接管控制台、创建后门、子用户列表、策略列表 后门信息
 ```
 
-​![image](assets/image-20240627140732-5a1mfgs.png)​
+![image](assets/image-20240627140732-5a1mfgs.png)
 
 # Confluence 综合漏洞利用工具
 
 ## 项目地址
 
-```http
+```
 https://github.com/Lotus6/ConfluenceMemshell
 ```
 
 ## 项目介绍
 
-```http
+```
 ConfluenceMemshell
 Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入
 
@@ -668,23 +666,23 @@ table 双击复制当前行，shell路径，key，ua
 CmdShell 地址:url+/plugins/servlet/com/atlassian/TeamManageServlet?team=whoami
 ```
 
-​![image](assets/image-20240627141452-r6kpkoo.png)​
+![image](assets/image-20240627141452-r6kpkoo.png)
 
 # 数据库综合利用工具
 
 ## 项目地址
 
-```http
+```
 https://github.com/SafeGroceryStore/MDUT
 ```
 
-```http
+```
 https://github.com/team-ide/teamide
 ```
 
 ## 项目介绍
 
-```http
+```
 MDUT（Multiple Database Utilization Tools）是中国一款集成了多种主流数据库类型的跨平台数据库利用工具。
 在前身SQLTOOLS的基础上，开发了该程序（向SQLTOOLS致敬），旨在将常见的数据库利用方法集成到一个程序中，打破了各种数据库利用工具需要各种环境并造成相当不便的障碍。
 此外，该工具使用JAVAFx作为GUI操作界面，美观。
@@ -693,7 +691,7 @@ MDUT（Multiple Database Utilization Tools）是中国一款集成了多种主�
 
 ![image](assets/image-20240627142612-xriy2tx.png)
 
-```http
+```
 Team IDE 集成MySql、Oracle、金仓、达梦、神通等数据库、SSH、FTP、Redis、Zookeeper、Kafka、Elasticsearch、Mongodb、小工具等管理工具
 Team · IDE 功能模块
 终端
@@ -741,19 +739,19 @@ Mongodb
 集合数据查询、新增、修改、删除 完成
 ```
 
-​![image](assets/image-20240627153943-1ajvqbh.png)​
+![image](assets/image-20240627153943-1ajvqbh.png)
 
 # DecryptTools 综合加解密后渗透工具
 
 ## 项目地址
 
-```http
+```
 https://github.com/wafinfo/DecryptTools
 ```
 
 ## 项目介绍
 
-```http
+```
 DecryptTools综合解密
 一款针对加解密综合利用后渗透工具
 工具展示
@@ -784,32 +782,32 @@ Druid
 密码查询功能
 ```
 
-​![image](assets/image-20240627144633-2abln9a.png)​
+![image](assets/image-20240627144633-2abln9a.png)
 
 # 互联网厂商 API 利用工具
 
 ## 项目地址
 
-```http
+```
 https://github.com/pykiller/API-T00L
 ```
 
-```http
+```
 https://github.com/mrknow001/API-Explorer
 ```
 
 ## 项目介绍
 
-```http
+```
 针对互联网各大API泄露的利用工具，包含钉钉、企业微信、飞书等
 
 ```
 
 ![image](assets/image-20240627143837-y5l0gsi.png)
 
-```http
+```
 工具初衷是做一个小程序、公众号、企业微信、飞书、钉钉等泄露secert后利用工具，后来发现几家接口有一定区别，认证等参数分布在不同位置，索性就做成一个比较通用的工具了。目前可以定义：请求类型、url、header、body、正则提取认证token、接口参数说明。
-​ API-Explorer是一款管理api接口的工具，可提前配置好接口，直接调用即可；可定义数据包任何位置内容，使用起来相当灵活。
+ API-Explorer是一款管理api接口的工具，可提前配置好接口，直接调用即可；可定义数据包任何位置内容，使用起来相当灵活。
 
 应用	功能	数据库接口
 微信公众号	支持	完成部分常用功能
@@ -823,31 +821,31 @@ https://github.com/mrknow001/API-Explorer
 钉钉无测试接口，写了也不知道效果，所以目前没有写。
 ```
 
-​![image](assets/image-20240627144355-s3e1ix4.png)​
+![image](assets/image-20240627144355-s3e1ix4.png)
 
 # OA 综合漏洞利用工具
 
 ## 项目地址
 
-```http
+```
 https://github.com/R4gd0ll/I-Wanna-Get-All
 ```
 
-```http
+```
 https://github.com/achuna33/MYExploit
 ```
 
-```http
+```
 https://mp.weixin.qq.com/s/1MEkYv5A47DJLCKqXKT0zQ
 ```
 
-```http
+```
 https://github.com/xiaokp7/TongdaOATool
 ```
 
 ## 项目介绍
 
-```http
+```
 介绍
 目前集成288漏洞，包括nday、1day（未公开poc）
 
@@ -901,15 +899,15 @@ MemShell模块
     6.  用友NC内存马支持bypass脏数据传入，默认为100字节
 ```
 
-​![image](assets/image-20240627145957-zcz22sx.png)​
+![image](assets/image-20240627145957-zcz22sx.png)
 
-​![image](assets/image-20240627151424-u1j7xhx.png)​
+![image](assets/image-20240627151424-u1j7xhx.png)
 
-```http
+```
 该工具获取请关注原作者公众号：琴音安全
 ```
 
-​![image](assets/image-20240627153035-qz8pjh6.png)​
+![image](assets/image-20240627153035-qz8pjh6.png)
 
 # 信息泄露利用工具
 
@@ -917,17 +915,17 @@ MemShell模块
 
 ### 项目地址
 
-```http
+```
 https://github.com/jayus0821/swagger-hack
 ```
 
-```http
+```
 https://github.com/lijiejie/swagger-exp
 ```
 
 ### 项目介绍
 
-```http
+```
 Swagger-hack 2.0
 自动化爬取并自动测试所有swagger接口
 第一个版本仅适配了一个版本的swagger，不同版本见差距比较大，后续又调查了很多版本的swagger，将脚本的适配性增强了很多
@@ -940,9 +938,9 @@ Swagger-hack 2.0
 优化了控制台显示，生成日志文件
 ```
 
-​![image](assets/image-20240627155236-lk8g7s3.png)​
+![image](assets/image-20240627155236-lk8g7s3.png)
 
-```http
+```
 Swagger API Exploit 1.2
 这是一个 Swagger REST API 信息泄露利用工具。 主要功能有：
 
@@ -961,17 +959,17 @@ Swagger API Exploit 1.2
 
 ### 项目地址
 
-```http
+```
 https://github.com/whwlsfb/JDumpSpider
 ```
 
-```http
+```
 https://github.com/wyzxxz/heapdump_tool
 ```
 
 ### 项目介绍
 
-```http
+```
 JDumpSpider
 HeapDump敏感信息提取工具
 暂支持提取以下类型的敏感信息
@@ -997,11 +995,11 @@ CookieRememberMeManager
 UserPassSearcher01
 
 
-$ java -jar .\target\JDumpSpider-1.0-SNAPSHOT-full.jar                
+$ java -jar .\target\JDumpSpider-1.0-SNAPSHOT-full.jar              
 Missing required parameter: '<heapfile>'
-Usage: JDumpSpider [-hV] <heapfile>                 
+Usage: JDumpSpider [-hV] <heapfile>               
 Extract sensitive information from heapdump file.   
-      <heapfile>   Heap file path.                  
+      <heapfile>   Heap file path.                
   -h, --help       Show this help message and exit.   
   -V, --version    Print version information and exit.
 
@@ -1011,13 +1009,13 @@ Extract sensitive information from heapdump file.
 
 ### 项目地址
 
-```http
+```
 https://github.com/BugScanTeam/GitHack
 ```
 
 ### 项目介绍
 
-```http
+```
 GitHack
 .git 泄漏利用工具，可还原历史版本
 
@@ -1044,13 +1042,13 @@ python GitHack.py http://www.example.com/.git/
 
 ### 项目地址
 
-```http
+```
 https://github.com/admintony/svnExploit
 ```
 
 ### 项目介绍
 
-```http
+```
 SvnExploit是一款SVN源代码利用工具，其完美支持SVN<1.7版本和SVN>1.7版本的SVN源代码泄露
 
 python .\svnExploit.py -u http://192.168.27.128/unit-2/lab3/.svn/
@@ -1091,13 +1089,13 @@ https://github.com/admintony/svnExploit
 
 ### 项目地址
 
-```http
+```
 https://github.com/lijiejie/ds_store_exp
 ```
 
 ### 项目介绍
 
-```http
+```
 ds_store_exp
 .DS_Store文件泄露漏洞。
 
@@ -1110,68 +1108,68 @@ hd.zj.qq.com/
 └── themes
     └── galaxyw
         ├── app
-        │   └── css
-        │       └── style.min.css
+        │   └── css
+        │       └── style.min.css
         ├── cityData.min.js
         ├── images
-        │   └── img
-        │       ├── bg-hd.png
-        │       ├── bg-item-activity.png
-        │       ├── bg-masker-pop.png
-        │       ├── btn-bm.png
-        │       ├── btn-login-qq.png
-        │       ├── btn-login-wx.png
-        │       ├── ico-add-pic.png
-        │       ├── ico-address.png
-        │       ├── ico-bm.png
-        │       ├── ico-duration-time.png
-        │       ├── ico-pop-close.png
-        │       ├── ico-right-top-delete.png
-        │       ├── page-login-hd.png
-        │       ├── pic-masker.png
-        │       └── ticket-selected.png
+        │   └── img
+        │       ├── bg-hd.png
+        │       ├── bg-item-activity.png
+        │       ├── bg-masker-pop.png
+        │       ├── btn-bm.png
+        │       ├── btn-login-qq.png
+        │       ├── btn-login-wx.png
+        │       ├── ico-add-pic.png
+        │       ├── ico-address.png
+        │       ├── ico-bm.png
+        │       ├── ico-duration-time.png
+        │       ├── ico-pop-close.png
+        │       ├── ico-right-top-delete.png
+        │       ├── page-login-hd.png
+        │       ├── pic-masker.png
+        │       └── ticket-selected.png
         └── member
             ├── assets
-            │   ├── css
-            │   │   ├── ace-reset.css
-            │   │   └── antd.css
-            │   └── lib
-            │       ├── cityData.min.js
-            │       └── ueditor
-            │           ├── index.html
-            │           ├── lang
-            │           │   └── zh-cn
-            │           │       ├── images
-            │           │       │   ├── copy.png
-            │           │       │   ├── localimage.png
-            │           │       │   ├── music.png
-            │           │       │   └── upload.png
-            │           │       └── zh-cn.js
-            │           ├── php
-            │           │   ├── action_crawler.php
-            │           │   ├── action_list.php
-            │           │   ├── action_upload.php
-            │           │   ├── config.json
-            │           │   ├── controller.php
-            │           │   └── Uploader.class.php
-            │           ├── ueditor.all.js
-            │           ├── ueditor.all.min.js
-            │           ├── ueditor.config.js
-            │           ├── ueditor.parse.js
-            │           └── ueditor.parse.min.js
+            │   ├── css
+            │   │   ├── ace-reset.css
+            │   │   └── antd.css
+            │   └── lib
+            │       ├── cityData.min.js
+            │       └── ueditor
+            │           ├── index.html
+            │           ├── lang
+            │           │   └── zh-cn
+            │           │       ├── images
+            │           │       │   ├── copy.png
+            │           │       │   ├── localimage.png
+            │           │       │   ├── music.png
+            │           │       │   └── upload.png
+            │           │       └── zh-cn.js
+            │           ├── php
+            │           │   ├── action_crawler.php
+            │           │   ├── action_list.php
+            │           │   ├── action_upload.php
+            │           │   ├── config.json
+            │           │   ├── controller.php
+            │           │   └── Uploader.class.php
+            │           ├── ueditor.all.js
+            │           ├── ueditor.all.min.js
+            │           ├── ueditor.config.js
+            │           ├── ueditor.parse.js
+            │           └── ueditor.parse.min.js
             └── static
                 ├── css
-                │   └── page.css
+                │   └── page.css
                 ├── img
-                │   ├── bg-table-title.png
-                │   ├── bg-tab-say.png
-                │   ├── ico-black-disabled.png
-                │   ├── ico-black-enabled.png
-                │   ├── ico-coorption-person.png
-                │   ├── ico-miss-person.png
-                │   ├── ico-mr-person.png
-                │   ├── ico-white-disabled.png
-                │   └── ico-white-enabled.png
+                │   ├── bg-table-title.png
+                │   ├── bg-tab-say.png
+                │   ├── ico-black-disabled.png
+                │   ├── ico-black-enabled.png
+                │   ├── ico-coorption-person.png
+                │   ├── ico-miss-person.png
+                │   ├── ico-mr-person.png
+                │   ├── ico-white-disabled.png
+                │   └── ico-white-enabled.png
                 └── scripts
                     ├── js
                     └── lib
@@ -1184,13 +1182,13 @@ hd.zj.qq.com/
 
 ### 项目地址
 
-```http
+```
 https://github.com/kost/dvcs-ripper
 ```
 
 ### 项目介绍
 
-```http
+```
 dvcs-ripper
 翻录 Web 可访问（分布式）版本控制系统：SVN、GIT、Mercurial/hg、bzr、...
 
@@ -1208,13 +1206,13 @@ dvcs-ripper
 
 ### 项目地址
 
-```http
+```
 https://github.com/rtcatc/Packer-Fuzzer
 ```
 
 ### 项目介绍
 
-```http
+```
 Packer Fuzzer
 一款针对Webpack等前端打包工具所构造的网站进行快速、高效安全检测的扫描工具
 本工具支持自动模糊提取对应目标站点的API以及API对应的参数内容，并支持对：未授权访问、敏感信息泄露、CORS、SQL注入、水平越权、弱口令、任意文件上传七大漏洞进行模糊高效的快速检测。在扫描结束之后，本工具还支持自动生成扫描报告，您可以选择便于分析的HTML版本以及较为正规的doc、pdf、txt版本。
@@ -1226,10 +1224,8 @@ Packer Fuzzer
 
 ![image](assets/image-20240627171913-hl7u95d.png)
 
-最后再次申明:  
+最后再次申明:
 
 > 此合集所有工具都来源于互联网公开收集整理，请勿从事非法测试！！！在使用本工具进行检测时，您应确保该行为符合当地的法律法规，并且已经取得了足够的授权。利用此工具集而造成的任何直接或者间接的后果及损失，均由使用者本人负责，所产生的一切不良后果与原作者及收集者无关。该仅供安全人员用于授权测试，请勿非法使用！！！除非您已充分阅读、完全理解并接受本协议所有条款，否则，请您不要安装并使用本工具集。 您的使用行为或者您以其他任何明示或者默示方式表示接受本协议的，即视为您已阅读并同意本协议的约束。
 >
 > 注：工具集有些工具杀软会报毒，请自行判断是否存在后门，收集作者未加入任何后门！！！，建议在本地虚拟机中使用。
-
-‍
