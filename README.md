@@ -1229,3 +1229,11 @@ Packer Fuzzer
 > 此合集所有工具都来源于互联网公开收集整理，请勿从事非法测试！！！在使用本工具进行检测时，您应确保该行为符合当地的法律法规，并且已经取得了足够的授权。利用此工具集而造成的任何直接或者间接的后果及损失，均由使用者本人负责，所产生的一切不良后果与原作者及收集者无关。该仅供安全人员用于授权测试，请勿非法使用！！！除非您已充分阅读、完全理解并接受本协议所有条款，否则，请您不要安装并使用本工具集。 您的使用行为或者您以其他任何明示或者默示方式表示接受本协议的，即视为您已阅读并同意本协议的约束。
 >
 > 注：工具集有些工具杀软会报毒，请自行判断是否存在后门，收集作者未加入任何后门！！！，建议在本地虚拟机中使用。
+欢迎关注本公众号，每日更新最新漏洞情报:
+
+![6017e4d55b8bd80eb79047ce4051aeb](https://github.com/onewinner/POCS/assets/94044430/aa35b0e3-c224-4507-8a16-4b7efa29f241)
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=onewinner/VulToolsKit&type=Date)](https://star-history.com/#onewinner/VulToolsKit&Date)
